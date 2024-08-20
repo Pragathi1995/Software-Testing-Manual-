@@ -1,2 +1,2 @@
-# Software-Testing-Manual-
-I have added Open cart app related documents for manual testing
+# Software-Testing-Manual
+Open cart application related Test cases and Test scenarios documents.
